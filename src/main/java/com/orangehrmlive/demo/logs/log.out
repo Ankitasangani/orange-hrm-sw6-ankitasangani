@@ -1,0 +1,28 @@
+2024-06-25 15:06:634 INFO  LoginPage :44 - Enter User Name: Admin
+2024-06-25 15:06:03 INFO  LoginPage :54 - Enter Password: admin123
+2024-06-25 15:06:168 INFO  LoginPage :49 - Clicking on Login Button: [[ChromeDriver: chrome on windows (9436f58cb9ff09576519489a3a57525c)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:349 INFO  DashboardPage :39 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (9436f58cb9ff09576519489a3a57525c)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 15:06:475 INFO  LoginPage :44 - Enter User Name: Admin
+2024-06-25 15:06:883 INFO  LoginPage :54 - Enter Password: admin123
+2024-06-25 15:06:83 INFO  LoginPage :49 - Clicking on Login Button: [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:46 INFO  HomePage :40 - Clicking on Admin link : [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:319 INFO  ViewSystemUsersPage :116 - Verifying System User Text: [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:364 INFO  ViewSystemUsersPage :121 - Clicking on Add button: [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 15:06:989 INFO  ViewSystemUsersPage :126 - Verifying User added text: Add User
+2024-06-25 15:06:25 INFO  AddUserPage :25 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 15:06:216 INFO  AddUserPage :30 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (b33d013fcc92bc88efcdce257fd18f89)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 15:06:366 INFO  ViewSystemUsersPage :132 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
+2024-06-25 15:06:600 INFO  LoginPage :44 - Enter User Name: Admin
+2024-06-25 15:06:999 INFO  LoginPage :54 - Enter Password: admin123
+2024-06-25 15:06:189 INFO  LoginPage :49 - Clicking on Login Button: [[ChromeDriver: chrome on windows (139bf4f26c236005a26a1b3adf3d7284)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:405 INFO  DashboardPage :39 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (139bf4f26c236005a26a1b3adf3d7284)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 15:06:54 INFO  LoginPage :44 - Enter User Name: Admin
+2024-06-25 15:06:460 INFO  LoginPage :54 - Enter Password: admin123
+2024-06-25 15:06:641 INFO  LoginPage :49 - Clicking on Login Button: [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:656 INFO  HomePage :40 - Clicking on Admin link : [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:935 INFO  ViewSystemUsersPage :116 - Verifying System User Text: [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:979 INFO  ViewSystemUsersPage :121 - Clicking on Add button: [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 15:06:575 INFO  ViewSystemUsersPage :126 - Verifying User added text: Add User
+2024-06-25 15:06:610 INFO  AddUserPage :25 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 15:06:790 INFO  AddUserPage :30 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (4d0d0cb2f53c076c93a9d3e41b505574)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 15:06:953 INFO  ViewSystemUsersPage :132 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
